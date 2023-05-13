@@ -12,17 +12,18 @@ Just download the compiled version by clicking Release.
 Run Sv_Cheats Spoofer.exe as admin.  
 
 # FAQ
-- Can i use this on my project OR can i paste it OR can i share it?  
-+ OFC you can, just give credits (my discord or github link).  
-
-- Is this detected?  
-+ No.  
-
-- Will i get banned due to using this?.  
-+ Yes and no. Depends on what you're gonna do after you use that tool.  
-
-- Do I (or you) have to update this when csgo updated?  
-+ No, it's auto-updated.  
-
-- Can i contact you via somewhere?  
-+ Yeah, i have discord. Girexo#1974  
+■ Can i use this on my project OR can i paste it OR can i share it?  
+□ OFC you can, just give credits (my discord or github link).  
+  
+■ Is this detected?  
+□ No.  
+  
+■ Will i get banned due to using this?.  
+□ Yes and no. Depends on what you're gonna do after you use that tool.  
+  
+■ Do I (or you) have to update this when csgo updated?  
+□ No, it's auto-updated.  
+  
+■ Can i contact you via somewhere?  
+□ Yeah, i have discord. Girexo#1974  
+  
