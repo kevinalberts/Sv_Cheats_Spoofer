@@ -1,5 +1,5 @@
 # Sv_Cheats Spoofer
-This is an open-source sv_cheats spoofer. You can enable or disable sv_cheats.  
+This is an open-source sv_cheats spoofer. You can enable or disable sv_cheats even in vac-protected servers.  
 
 # What can i do when i spoofed sv_cheats?
 For example you can change r_drawothermodels variable.  
